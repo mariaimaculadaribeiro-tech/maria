@@ -63,9 +63,9 @@
             <img src="trabalho.jpg" alt="Um grande livro aberto intitulado "O Livro do Futuro Tecnológico" sobre uma mesa digital. As páginas do livro brilham em tons de azul e exibem infográficos detalhados com ilustrações sobre redes globais de aprendizado, veículos autônomos e infraestrutura de dados, com uma cidade futurista ao fundo.">
             <div>
             <h2>Introdução</h2>
-            <p class="artigo-autor">Por: Maria Imaculada</p>
+            <p class="artigo-autor">Por: Maria Imaculada </p>
             <p>Boas-vindas ao meu novo blog! Aqui vou compartilhar curiosidades da área de tecnologia..</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -76,7 +76,7 @@
             <h2>1ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>O primeiro computador pesava mais de 27 toneladas, ocupava uma áreas de 180 metros quadrados, foi nomeado como ENIAC.</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -87,7 +87,7 @@
             <h2>2ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>O primeiro sistema de e-mail se chamava Mailbox e só podia ser usado nos computadores do Instituto de Tecnologia de Massachusetts (MIT).</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -98,7 +98,7 @@
             <h2>3ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>A primeira fotografia da história data de 1826 e foi feita na região de Le Gras, na França. Para que uma placa de estanho pudesse receber a imagem, foram necessárias nada menos do que oito horas de exposição à luz.</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -109,7 +109,7 @@
             <h2>4ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>Em 1971, surgiu o Creeper, considerado o primeiro vírus informático. Ele não causava danos, apenas mostrava a mensagem: “Eu sou o Creeper, apanhem-me se puderem!” </p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -120,7 +120,7 @@
             <h2>5ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>Os dispositivos Amazon Alexa armazenam conversas na nuvem para melhorar sua performance. Além disso, equipes da empresa analisam amostras de gravações para refinar o entendimento dos comandos de voz.</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -131,7 +131,7 @@
             <h2>6ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>Muitas pessoas já experimentaram a sensação de que o celular vibrou no bolso sem que isso tenha acontecido. A síndrome da vibração fantasma é um fenômeno psicológico causado pela nossa crescente dependência dos dispositivos móveis.</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
@@ -142,7 +142,7 @@
             <h2>7ª Curiosidade</h2>
             <p class="artigo-autor">Por: Maria Imaculada</p>
             <p>Há fábricas no Japão que operam com robôs de maneira quase autônoma, necessitando de supervisão humana apenas uma vez por mês. Isso reflete como a automação está redefinindo as linhas de produção globalmente.</p>
-            <p class="artigo-fonte">Fonte: Positivo do seu jeito</p>
+            <p class="artigo-fonte">Fonte: <a href="https://www.meupositivo.com.br/doseujeito/tecnologia/curiosidades-sobre-o-mundo-da-tecnologia/" target="_blank">Positivo do seu jeito</a></p>
             <button>❤️<span>0</span></button>
             <button>👍<span>0</span></button>
         </div>
