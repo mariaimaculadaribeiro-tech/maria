@@ -8,24 +8,39 @@
        
        :root {
           --cor-primaria:#183C63;
-          --cor-secundaria:#3e74af;
+          --cor-secundaria:#93b0eb;
           --cor-fundo: #FFFFFF;
           --cor-texto: #151428;
           --cor-contraste: #f3eef7;
           --cor-botao: #f9f9f9;
+
+        --fonte-texto: 'Sagoe UI', sans-serif;
     }
 
     .tema-escuro {
-         --cor-primaria:#0b2f55;
-          --cor-secundaria:#316195;
-          --cor-fundo: #040404;
+          --cor-primaria:#183C63;
+          --cor-secundaria:#507ec4;
+          --cor-fundo: #caa3f7;
           --cor-texto: #151428;
-          --cor-contraste: #f3eef7;
-          --cor-botao: #f9f9f9;
+          --cor-contraste: #e4d7f1;
+          --cor-botao: #dbc2c2;
+    }
+
+    .tema-escuro a {
+        color: var(--cor-secundaria);
+    }
+
+    .tema-escuro p {
+        color: var(--cor-texto);
+    }
+
+    .tema-escuro header p{
+        color: var(--cor-contraste)
     }
 
        body{
             max-width: 100vw;
+            font-family: var(--fonte-texto);
         }
         
         header{
@@ -38,7 +53,7 @@
 
         main{
             background-color: var(--cor-fundo);
-            color: var(--cor-texto);
+            color: var(--cor-primaria);
             margin: 0 auto;
             padding: 16px;
         
@@ -49,7 +64,7 @@
         article{
             display: flex;
 
-            border: 1px solid #183C63;
+            border: 1px solid var(--cor-primaria);
 
             margin: 16px;
             gap: 16px;
@@ -72,7 +87,7 @@
         }
     </style>
     </head>
-    <body class="tema escuro">
+    <body class="tema-escuro">
         <header>
             <h1>Bem-vindos ao meu blog!</h1>
             <p>Vou compartilhar curiosidades sobre tecnologia</p>
